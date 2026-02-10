@@ -14,10 +14,13 @@ Check out the demo videos to see the app in action:
 
 ### Version 2
 
+<video src="https://github.com/user-attachments/assets/59b3fca6-30ac-4699-afac-3c140482fe87" width=auto height="250" controls>
+</video>
 
 ### Version 1
 
-https://github.com/user-attachments/assets/5b174c4a-7ee5-4871-94b3-5b7626f10d20
+<video src="https://github.com/user-attachments/assets/5b174c4a-7ee5-4871-94b3-5b7626f10d20" width=auto height="250" controls>
+</video>
 
 ## 📌 Overview
 
