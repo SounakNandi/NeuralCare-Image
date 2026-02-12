@@ -63,16 +63,16 @@ pip install -r requirements.txt
 
 3️⃣ Run the Application
 
-**Version 1: Classic UI**
-
-```
-python ui/app1.py
-```
-
-**Version 2: Modern UI**
+**Version 2 (recommended)**
 
 ```
 python ui/app2.py
+```
+
+**Version 1**
+
+```
+python ui/app1.py
 ```
 
 ## Credits
